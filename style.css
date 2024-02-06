@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: blueviolet;
+    color: black;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.sub{
+    background-color: lawngreen;
+    color: black;
+    height: 100px;
+    width: 100%;
+}
+.footer{
+    background-color: darkblue;
+    color: black;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.right{
+    background-color: seagreen;
+    color: black;
+    height: 400px;
+    width: 20%;
+}
+.left{
+    background-color: chocolate;
+    color: black;
+    height: 400px;
+    width: 20%;
+}
+.middle{
+    background-color: hotpink;
+    color: black;
+    height: 400px;
+    width: 60%;
+}
+.trouble{
+    display: flex;
+}
